@@ -1,3 +1,10 @@
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+
+
+
 #got this from gitignore generators these files are used to ignore certain important files from being loaded to git hub
 # Logs
 logs
@@ -69,11 +76,6 @@ web_modules/
 
 # Yarn Integrity file
 .yarn-integrity
-
-# dotenv environment variables file
-.env
-.env.test
-.env.production
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
